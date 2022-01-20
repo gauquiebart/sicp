@@ -5,3 +5,6 @@ Using mit-scheme on Mac terminal:
 - Be sure to enable Option as Meta key (Terminal > Preferences > Profiles > Keyboard > tick: Use Option as Meta key.
 
 
+A library test-manager is used to write some automated tests, validating behaviour.
+
+
